@@ -104,5 +104,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://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@github.com/niepanblog/niepanblog.github.io.git
+  repo: git@github.com:niepanblog/niepanblog.github.io.git
   branch: master
